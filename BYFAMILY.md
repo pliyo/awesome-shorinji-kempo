@@ -55,6 +55,7 @@
         <p>O) Chudan gyaku zuki  </p>
         <p></p>
     </td>
+    <td>[Example](https://www.youtube.com/watch?v=q5tnJG0jWwM)</td>
   </tr>
     </tr>
     <tr>
@@ -90,6 +91,9 @@
      <td>
         <p>O) Jodan choku zuki  </p>
         <p>D) Jun uke jun zuki, gyaku uke, gyaku zuki</p>
+    </td>
+    <td>
+    [1](https://www.youtube.com/watch?v=9j7wuZlsBes)
     </td>
   </tr>
     <td>Tanto tsuki komi shita uke uchi otoshi geri</td>
