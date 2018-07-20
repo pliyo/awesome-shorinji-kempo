@@ -179,4 +179,7 @@
 <td>Ryu No Kata</td>
 <td>1st dan</td>
 <td>[1](https://www.youtube.com/watch?v=EmJdXB73U1Y)</td/>
+<td>Manji No Kata</td>
+<td></td>
+<td>[1](https://www.youtube.com/watch?v=uYJI2VYeSpQ)</td>
 </table>
