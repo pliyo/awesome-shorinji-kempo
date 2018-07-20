@@ -153,6 +153,7 @@
         <p>O) Jo chu ni ren zuki  </p>
         <p>D) Uwa uke, shita uke, doji geri</p>
     </td>
+    <td>[1](https://www.youtube.com/watch?v=8yy78Cl8kms)</td>
   </tr>
   <tr>
     <td>Keri ten ichi</td>
