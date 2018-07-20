@@ -167,3 +167,16 @@
     </td>
   </tr>
 </table>
+
+# Tanen 
+
+<table>  
+<tr>
+    <th>Technique</th>
+    <th>Grade</th>
+    <th>Examples</th>
+  </tr>
+<td>Ryu No Kata</td>
+<td>1st dan</td>
+<td>[1](https://www.youtube.com/watch?v=EmJdXB73U1Y)</td/>
+</table>
